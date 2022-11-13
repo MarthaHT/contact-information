@@ -1,4 +1,4 @@
-# Contact-information
+# Info
 
 Hi, my email
 
